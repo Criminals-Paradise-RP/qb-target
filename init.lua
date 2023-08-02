@@ -73,7 +73,7 @@ Config.BoxZones = {
 -- CQC-Mugshot
 ['CQCMugshot'] = {
 	name = 'CQCMugshot',
-	coords = vector3(-556.26, -132.99, 33.75),
+	coords = vector3(472.92, -1011.49, 25.27),
 	debugPoly = false,
 	length = 0.50,
 	width = 0.65,
